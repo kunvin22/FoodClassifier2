@@ -1,5 +1,5 @@
 # Food Classifier
-
+*to get model:go to master branch of github instead of main branch
 A ai model that classifies food between chip, cookies and ice cream using Jetson-inferences resnet-18 model
 
 ![image](https://github.com/kunvin22/FoodClassifier2/assets/56424209/ae4b7361-117a-4272-8f53-c35b94408e2b)
